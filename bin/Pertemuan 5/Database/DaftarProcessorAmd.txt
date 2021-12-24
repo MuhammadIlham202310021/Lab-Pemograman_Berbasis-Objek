@@ -1,0 +1,5 @@
+Dual,3.5,DDR3,FM2+,AMD A6-7400K,Mendukung
+Quad,3.7,DDR4,AM4,AMD Ryzen 5 3400g,Mendukung
+Hexa,3.6,DDDR4,AM4,AMD Ryzen 5 3600,Tidak Mendukung
+Octa,3.7,DDR4,AM4,AMD Ryzen 7 3700X,Tidak Mendukung
+Dodeca,3.8,DDR4,AM4,AMD Ryzen 9 3900X,Tidak Mendukung

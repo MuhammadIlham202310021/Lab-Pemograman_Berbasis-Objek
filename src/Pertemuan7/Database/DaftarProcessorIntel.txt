@@ -1,0 +1,5 @@
+Deca,3.6,DDR3,LGA2011,Intel Xeon E5-2690 v2,Tidak Mendukung
+Dual,3.7,DDR4,LGA1151,Intel Pentium Gold G5400,Mendukung
+Quad,3.6,DDR4,LGA1151,Intel Core i3-9100F,Tidak Mendukung
+Hexa,3.7,DDR4,LGA1151,Intel Core i5-9600K,Mendukung
+Octa,3.6,DDR4,LGA1151,Intel Core i9-9900K,Mendukung
